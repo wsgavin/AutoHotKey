@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getJs",
+				"getJsonFile"
+			],
+			[
+				"curr",
+				"currencyCodeURL"
+			],
+			[
+				"late",
+				"latestUrlString"
+			],
+			[
+				"Jso",
+				"JsonBuilder"
+			],
+			[
+				"e",
+				"ea	each { … }"
+			],
+			[
+				"to",
+				"to	to Character"
+			],
+			[
+				"descr",
+				"descr"
+			],
+			[
+				"curre",
+				"currencyCodes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "HotStrings.ahk",
+			"settings":
+			{
+				"buffer_size": 1070,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 235.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/warren.gavin/Dropbox/.autohotkey"
+	],
+	"file_history":
+	[
+		"/C/Users/warren.gavin/Downloads/Chrome/apache-maven-3.3.3-bin/apache-maven-3.3.3/README.txt",
+		"/C/Users/warren.gavin/AppData/Roaming/Sublime Text 3/Packages/User/groovy.sublime-build",
+		"/C/Users/warren.gavin/Documents/GitHub/GroovySandbox/ExchangeRate/ExchangeRate.groovy",
+		"/C/Users/warren.gavin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/warren.gavin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/warren.gavin/Desktop/ggts-bundle/ggts-3.6.4.RELEASE/configuration/config.ini",
+		"/C/Users/warren.gavin/Desktop/ggts-bundle/ggts-3.6.4.RELEASE/GGTS.ini",
+		"/C/Users/warren.gavin/Documents/GitHub/GroovySandbox/.gitignore",
+		"/C/Users/warren.gavin/Documents/GitHub/GroovySandbox/GroovySandbox.sublime-project",
+		"/C/Users/warren.gavin/Documents/GitHub/GroovySandbox/ExchangeRate/currencies.json",
+		"/C/Users/warren.gavin/Documents/GitHub/GroovySandbox/ExchangeRate.groovy",
+		"/C/Users/warren.gavin/Documents/GitHub/GroovySandbox/currencies.json",
+		"/C/Users/warren.gavin/Documents/GitHub/GroovySandbox/.gitattributes",
+		"/C/Users/warren.gavin/Documents/GitHub/GroovySandbox/README.md"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"file",
+			"File",
+			"file",
+			"json",
+			"fileString",
+			"getJson",
+			"goGet",
+			"font",
+			"argumentsLowerCase"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "HotStrings.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1014,
+								1014
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 185.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/groovy.sublime-build",
+	"project": "autohotkey.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
